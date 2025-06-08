@@ -22,7 +22,7 @@
 
 ```bash
 # Clonar repositorio
-git clone <repository-url>
+git clone https://github.com/IBearSmile2319/softteck-prueba.git
 cd star-wars-weather-api
 
 # Instalar dependencias
